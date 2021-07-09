@@ -51,30 +51,13 @@ AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BKDCXLER
 
 [Document2]
-DocumentPath=BoardC-Power.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZIENTMCM
-
-[Document3]
 DocumentPath=BoardC.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +74,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document3]
 DocumentPath=BoardC.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +91,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LFUVEWNS
 
-[Document5]
+[Document4]
 DocumentPath=BoardC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PUYWBIJT
 
-[Document6]
+[Document5]
 DocumentPath=BoardC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +123,15 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PIJYDYKC
+DocumentUniqueId=HXVWXCKW
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for BoardC\Design Rule Check - BoardC.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for BoardC\Move Component(s) Origin To Grid - BoardC.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -1068,8 +1059,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=BoardC.SchLib
-ComponentDesignItemID0=VSMY3850-GS08
-ComponentSymbolReference0=VSMY3850-GS08
+ComponentDesignItemID0=TPS62902RPJR
+ComponentSymbolReference0=TPS62902RPJR
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1085,96 +1076,33 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Case/Package
+ParameterName0=Comment
 ParameterUpdate0=1
-ParameterName1=Comment
+ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Component Kind
+ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=ComponentLink1Description
+ParameterName3=Library Reference
 ParameterUpdate3=1
-ParameterName4=ComponentLink1URL
+ParameterName4=Manufacturer
 ParameterUpdate4=1
-ParameterName5=ComponentLink2Description
+ParameterName5=Manufacturer Part Number
 ParameterUpdate5=1
-ParameterName6=ComponentLink2URL
+ParameterName6=Pricing 1
 ParameterUpdate6=1
-ParameterName7=ComponentLink3Description
+ParameterName7=RoHS
 ParameterUpdate7=1
-ParameterName8=ComponentLink3URL
+ParameterName8=Stock 1
 ParameterUpdate8=1
-ParameterName9=ComponentLink4Description
+ParameterName9=Supplier 1
 ParameterUpdate9=1
-ParameterName10=ComponentLink4URL
+ParameterName10=Supplier Part Number 1
 ParameterUpdate10=1
-ParameterName11=ComponentLink5Description
-ParameterUpdate11=1
-ParameterName12=ComponentLink5URL
-ParameterUpdate12=1
-ParameterName13=ComponentLink6Description
-ParameterUpdate13=1
-ParameterName14=ComponentLink6URL
-ParameterUpdate14=1
-ParameterName15=Contact Plating
-ParameterUpdate15=1
-ParameterName16=Description
-ParameterUpdate16=1
-ParameterName17=Fall Time
-ParameterUpdate17=1
-ParameterName18=Forward Current
-ParameterUpdate18=1
-ParameterName19=Forward Voltage
-ParameterUpdate19=1
-ParameterName20=Lead Free
-ParameterUpdate20=1
-ParameterName21=Lens Style
-ParameterUpdate21=1
-ParameterName22=Library Reference
-ParameterUpdate22=1
-ParameterName23=Max Operating Temperature
-ParameterUpdate23=1
-ParameterName24=Min Operating Temperature
-ParameterUpdate24=1
-ParameterName25=Mount
-ParameterUpdate25=1
-ParameterName26=Number of LEDs
-ParameterUpdate26=1
-ParameterName27=Number of Pins
-ParameterUpdate27=1
-ParameterName28=Operating Supply Voltage
-ParameterUpdate28=1
-ParameterName29=Orientation
-ParameterUpdate29=1
-ParameterName30=Package Quantity
-ParameterUpdate30=1
-ParameterName31=Packaging
-ParameterUpdate31=1
-ParameterName32=Power Rating
-ParameterUpdate32=1
-ParameterName33=Pricing 1
-ParameterUpdate33=1
-ParameterName34=Radiation Hardening
-ParameterUpdate34=1
-ParameterName35=REACH SVHC
-ParameterUpdate35=1
-ParameterName36=Reverse Voltage
-ParameterUpdate36=1
-ParameterName37=Rise Time
-ParameterUpdate37=1
-ParameterName38=RoHS
-ParameterUpdate38=1
-ParameterName39=RoHS Compliant
-ParameterUpdate39=1
-ParameterName40=Series
-ParameterUpdate40=1
-ParameterName41=Stock 1
-ParameterUpdate41=1
-ParameterName42=Supplier 1
-ParameterUpdate42=1
-ParameterName43=Viewing Angle
-ParameterUpdate43=1
-ParameterName44=Wavelength
-ParameterUpdate44=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=TPS62902RPJR
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
