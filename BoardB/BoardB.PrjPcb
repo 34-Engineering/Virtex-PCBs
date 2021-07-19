@@ -140,7 +140,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DROXTDFZ
+DocumentUniqueId=YTBRSAKK
 
 [Document7]
 DocumentPath=BoardB.PcbLib
@@ -176,7 +176,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Brother HL-L8360CDW series
+TargetPrinter=Brother HL-L8360CDW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -282,7 +282,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother HL-L8360CDW series
+TargetPrinter=Brother HL-L8360CDW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -362,7 +362,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Brother HL-L8360CDW series
+TargetPrinter=Brother HL-L8360CDW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -384,7 +384,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Brother HL-L8360CDW series
+TargetPrinter=Brother HL-L8360CDW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -456,7 +456,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Brother HL-L8360CDW series
+TargetPrinter=Brother HL-L8360CDW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -505,7 +505,7 @@ OutputDefault8=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Brother HL-L8360CDW series
+TargetPrinter=Brother HL-L8360CDW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -613,7 +613,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Brother HL-L8360CDW series
+TargetPrinter=Brother HL-L8360CDW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -657,7 +657,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Brother HL-L8360CDW series
+TargetPrinter=Brother HL-L8360CDW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -718,7 +718,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Brother HL-L8360CDW series
+TargetPrinter=Brother HL-L8360CDW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1091,10 +1091,16 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=BoardB.SchLib
-ComponentDesignItemID0=16TQC15M
-ComponentSymbolReference0=16TQC15M
+ComponentDesignItemID0=DSC1103DI5-360.0000
+ComponentSymbolReference0=DSC1103DI5-360.0000
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=BoardB.SchLib
+ComponentDesignItemID1=NOIP1FN0300A-QDI
+ComponentSymbolReference1=NOIP1FN0300A-QDI
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1108,104 +1114,54 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Capacitance
+ParameterName0=Case/Package
 ParameterUpdate0=1
-ParameterName1=Case Code (Imperial)
+ParameterName1=Category
 ParameterUpdate1=1
-ParameterName2=Case Code (Metric)
+ParameterName2=Comment
 ParameterUpdate2=1
-ParameterName3=Case/Package
+ParameterName3=Component Kind
 ParameterUpdate3=1
-ParameterName4=Category
+ParameterName4=ComponentLink1Description
 ParameterUpdate4=1
-ParameterName5=Comment
+ParameterName5=ComponentLink1URL
 ParameterUpdate5=1
-ParameterName6=Component Kind
+ParameterName6=ComponentLink2Description
 ParameterUpdate6=1
-ParameterName7=ComponentLink1Description
+ParameterName7=ComponentLink2URL
 ParameterUpdate7=1
-ParameterName8=ComponentLink1URL
+ParameterName8=Description
 ParameterUpdate8=1
-ParameterName9=ComponentLink2Description
+ParameterName9=Lead Free
 ParameterUpdate9=1
-ParameterName10=ComponentLink2URL
+ParameterName10=Library Reference
 ParameterUpdate10=1
-ParameterName11=ComponentLink3Description
+ParameterName11=Manufacturer
 ParameterUpdate11=1
-ParameterName12=ComponentLink3URL
+ParameterName12=Manufacturer Part Number
 ParameterUpdate12=1
-ParameterName13=Depth
+ParameterName13=Max Operating Temperature
 ParameterUpdate13=1
-ParameterName14=Description
+ParameterName14=Min Operating Temperature
 ParameterUpdate14=1
-ParameterName15=Dissipation Factor
+ParameterName15=Mount
 ParameterUpdate15=1
-ParameterName16=ESR (Equivalent Series Resistance)
+ParameterName16=Number of Pins
 ParameterUpdate16=1
-ParameterName17=Features
+ParameterName17=Operating Supply Voltage
 ParameterUpdate17=1
-ParameterName18=Height
+ParameterName18=Pricing 1
 ParameterUpdate18=1
-ParameterName19=Height - Seated (Max)
+ParameterName19=RoHS
 ParameterUpdate19=1
-ParameterName20=Lead Free
+ParameterName20=RoHS Compliant
 ParameterUpdate20=1
-ParameterName21=Leakage Current
+ParameterName21=Stock 1
 ParameterUpdate21=1
-ParameterName22=Length
+ParameterName22=Supplier 1
 ParameterUpdate22=1
-ParameterName23=Library Reference
+ParameterName23=Supplier Part Number 1
 ParameterUpdate23=1
-ParameterName24=Life (Hours)
-ParameterUpdate24=1
-ParameterName25=Manufacturer
-ParameterUpdate25=1
-ParameterName26=Manufacturer Part Number
-ParameterUpdate26=1
-ParameterName27=Max Operating Temperature
-ParameterUpdate27=1
-ParameterName28=Min Operating Temperature
-ParameterUpdate28=1
-ParameterName29=Mount
-ParameterUpdate29=1
-ParameterName30=Number of Pins
-ParameterUpdate30=1
-ParameterName31=Package Quantity
-ParameterUpdate31=1
-ParameterName32=Packaging
-ParameterUpdate32=1
-ParameterName33=Polarity
-ParameterUpdate33=1
-ParameterName34=Pricing 1
-ParameterUpdate34=1
-ParameterName35=Radiation Hardening
-ParameterUpdate35=1
-ParameterName36=REACH SVHC
-ParameterUpdate36=1
-ParameterName37=Ripple Current
-ParameterUpdate37=1
-ParameterName38=RoHS
-ParameterUpdate38=1
-ParameterName39=RoHS Compliant
-ParameterUpdate39=1
-ParameterName40=Stock 1
-ParameterUpdate40=1
-ParameterName41=Supplier 1
-ParameterUpdate41=1
-ParameterName42=Supplier Part Number 1
-ParameterUpdate42=1
-ParameterName43=Termination
-ParameterUpdate43=1
-ParameterName44=Tolerance
-ParameterUpdate44=1
-ParameterName45=Voltage
-ParameterUpdate45=1
-ParameterName46=Voltage Rating
-ParameterUpdate46=1
-ParameterName47=Voltage Rating (DC)
-ParameterUpdate47=1
-ParameterName48=Width
-ParameterUpdate48=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
