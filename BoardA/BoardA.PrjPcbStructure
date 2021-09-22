@@ -4,3 +4,6 @@ Record=NoMainPathDocument|SourceDocument=BoardA-Connectors.SchDoc|FileName=Board
 Record=NoMainPathDocument|SourceDocument=BoardA-Connectors.SchDoc|FileName=BoardA-Power.SchDoc|SheetNumber=6
 Record=NoMainPathDocument|SourceDocument=BoardA-Connectors.SchDoc|FileName=BoardA-Storage.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=BoardA-Connectors.SchDoc|FileName=BoardA-USB.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=BoardA-Connectors.SchDoc|FileName=BoardB-Camera.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=BoardA-Connectors.SchDoc|FileName=BoardB-LEDs.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=BoardA-Connectors.SchDoc|FileName=BoardC.SchDoc|SheetNumber=9
