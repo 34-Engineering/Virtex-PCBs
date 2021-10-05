@@ -1,9 +1,9 @@
-Record=TopLevelDocument|FileName=BoardA-Connectors.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=BoardA-Connectors.SchDoc|FileName=BoardA-FPGA2.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=BoardA-Connectors.SchDoc|FileName=BoardA-FPGA.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=BoardA-Connectors.SchDoc|FileName=BoardA-Power.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=BoardA-Connectors.SchDoc|FileName=BoardA-Storage.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=BoardA-Connectors.SchDoc|FileName=BoardA-USB.SchDoc|SheetNumber=4
+Record=TopLevelDocument|FileName=BoardA-Connectors.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=BoardA-Connectors.SchDoc|FileName=BoardA-Power.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=BoardA-Connectors.SchDoc|FileName=BoardB-Camera.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=BoardA-Connectors.SchDoc|FileName=BoardB-FPGA2.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=BoardA-Connectors.SchDoc|FileName=BoardB-FPGA3.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=BoardA-Connectors.SchDoc|FileName=BoardB-FPGA.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=BoardA-Connectors.SchDoc|FileName=BoardB-LEDs.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=BoardA-Connectors.SchDoc|FileName=BoardB-USB.SchDoc|SheetNumber=6
 Record=NoMainPathDocument|SourceDocument=BoardA-Connectors.SchDoc|FileName=BoardC.SchDoc|SheetNumber=9
