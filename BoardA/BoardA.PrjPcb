@@ -60,7 +60,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RKNZGAWU
 
 [Document2]
-DocumentPath=BoardA-PowerSupplies.SchDoc
+DocumentPath=BoardA-Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

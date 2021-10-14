@@ -1,10 +1,8 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=Virtex.PrjMbd
-[Project2]
 ProjectPath=BoardA\BoardA.PrjPcb
-[Project3]
+[Project2]
 ProjectPath=BoardB\BoardB.PrjPcb
-[Project4]
+[Project3]
 ProjectPath=BoardC\BoardC.PrjPcb
