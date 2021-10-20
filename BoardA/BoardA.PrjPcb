@@ -144,6 +144,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BSQJEVTC
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for BoardA\Design Rule Check - BoardA.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

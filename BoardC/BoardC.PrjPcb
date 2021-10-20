@@ -110,6 +110,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QWVUKFCG
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for BoardC\Design Rule Check - BoardC.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
