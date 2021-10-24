@@ -7,4 +7,4 @@ ProjectPath=BoardB\BoardB.PrjPcb
 [Project3]
 ProjectPath=BoardC\BoardC.PrjPcb
 [Project4]
-ProjectPath=ConnectorBoard\ConnectorBoard.PrjPcb
+ProjectPath=RoboRIOAdapterBoard\RoboRIOAdapterBoard.PrjPcb
