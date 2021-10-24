@@ -212,6 +212,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MGEKLGCP
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for BoardB\Design Rule Check - BoardB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
