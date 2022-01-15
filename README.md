@@ -1,6 +1,6 @@
 # Virtex-PCBs
 
-This repository contains the Altium source for 34V0-CB-A, 34V0-CB-B, 34V0-CB-C, and 34AB0-CB.
+This repository contains the Altium source for Virtex's PCBs and adapter board (34V0-CB-A, 34V0-CB-B, 34V0-CB-C, and 34AB0-CB).
 
  - Altium Version: 21.8.1
 
