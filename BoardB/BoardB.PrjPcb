@@ -37,6 +37,12 @@ ManagedProjectGUID=CA522C7E-89C8-4ED3-8A3A-E6B22AEE09E3
 VaultGUID=87646F8E-C5AB-40EE-8F8B-906D511F91DB
 ReleaseVaultName=34 Engineering
 IncludeDesignInRelease=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
+CrossRefPorts=3
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
 
 [Preferences]
 PrefsVaultGUID=
@@ -176,7 +182,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=URJVQUVZ
 
 [Document9]
 DocumentPath=BoardB-Input.SchDoc
@@ -211,6 +217,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MGEKLGCP
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for BoardB\Design Rule Check - BoardB.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
