@@ -51,7 +51,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=BoardB-Camera.SchDoc
+DocumentPath=BoardB-Python.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -85,57 +85,6 @@ GenerateClassCluster=0
 DocumentUniqueId=UKDVAILR
 
 [Document3]
-DocumentPath=BoardB-FPGA2.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NGRIPCWJ
-
-[Document4]
-DocumentPath=BoardB-FPGA3.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YKTEOTPF
-
-[Document5]
-DocumentPath=BoardB-LEDs.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HBMQBLTQ
-
-[Document6]
 DocumentPath=BoardB-USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -152,7 +101,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SCXPZKFP
 
-[Document7]
+[Document4]
 DocumentPath=..\Library\Virtex.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -169,7 +118,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KHELNHWO
 
-[Document8]
+[Document5]
 DocumentPath=..\Library\Virtex.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -186,8 +135,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=URJVQUVZ
 
-[Document9]
-DocumentPath=BoardB-Input.SchDoc
+[Document6]
+DocumentPath=BoardB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -203,7 +152,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WNUPGDNP
 
-[Document10]
+[Document7]
 DocumentPath=BoardB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
