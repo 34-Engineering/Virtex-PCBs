@@ -1,7 +1,3 @@
-Record=TopLevelDocument|FileName=BoardB-Camera.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=BoardB-Camera.SchDoc|FileName=BoardB-FPGA2.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=BoardB-Camera.SchDoc|FileName=BoardB-FPGA3.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=BoardB-Camera.SchDoc|FileName=BoardB-FPGA.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=BoardB-Camera.SchDoc|FileName=BoardB-Input.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=BoardB-Camera.SchDoc|FileName=BoardB-LEDs.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=BoardB-Camera.SchDoc|FileName=BoardB-USB.SchDoc|SheetNumber=6
+Record=TopLevelDocument|FileName=BoardB.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=BoardB.SchDoc|FileName=BoardB-FPGA.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=BoardB.SchDoc|FileName=BoardB-Python.SchDoc|SheetNumber=1

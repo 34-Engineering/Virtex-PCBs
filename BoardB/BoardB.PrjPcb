@@ -85,23 +85,6 @@ GenerateClassCluster=0
 DocumentUniqueId=UKDVAILR
 
 [Document3]
-DocumentPath=BoardB-USB.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SCXPZKFP
-
-[Document4]
 DocumentPath=..\Library\Virtex.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -118,7 +101,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KHELNHWO
 
-[Document5]
+[Document4]
 DocumentPath=..\Library\Virtex.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -135,7 +118,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=URJVQUVZ
 
-[Document6]
+[Document5]
 DocumentPath=BoardB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -152,7 +135,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WNUPGDNP
 
-[Document7]
+[Document6]
 DocumentPath=BoardB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
