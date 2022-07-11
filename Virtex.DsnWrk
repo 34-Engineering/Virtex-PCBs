@@ -5,7 +5,7 @@ ProjectPath=Power\Power.PrjPcb
 [Project2]
 ProjectPath=USB\USB.PrjPcb
 [Project3]
-ProjectPath=FGPA\FPGA.PrjPcb
+ProjectPath=FPGA\FPGA.PrjPcb
 [Project4]
 ProjectPath=Image\Image.PrjPcb
 [Project5]
