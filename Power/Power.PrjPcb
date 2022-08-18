@@ -116,10 +116,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BSQJEVTC
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Power\Power.NET
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1026,7 +1022,7 @@ Type108=2
 Type109=1
 Type110=1
 Type111=1
-Type112=1
+Type112=0
 Type113=1
 Type114=2
 Type115=2
